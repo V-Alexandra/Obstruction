@@ -1,8 +1,5 @@
 # Obstruction
 Two-player strategy game where players take turns marking cells on a grid to block their opponent. Developed using Python and the pygame library. Inspired by the classic strategy game "Obstruction".
-# Obstruction
-
-Obstruction is a two‑player strategy game where players take turns marking cells on a grid. Marking a cell blocks the surrounding cells, and the player who makes the last valid move wins.
 
 ## Rules
 
